@@ -1,70 +1,82 @@
-## Hey 👋, I'm Anıl Soylu!  
-  
+# Hey 👋, I'm Anıl Soylu!  
+
+🚀 **Frontend Developer | React | React Native | Next.js | TypeScript**  
 
 <a href="https://github.com/anilsoylu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://twitter.com/anilsoylu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://linkedin.com/in/anilsoylu94" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>  
-  
 
+---
 
+## ✨ About Me  
 
-### Glad to see you here!  
-I'm 30 years old and embarked on my professional software development journey in 2014. My native language is Turkish, and I also speak English at an A2 level. I'm continuously improving my skills in programming languages, backend, and frontend technologies. Currently, I'm focusing on front end projects using React, Next.js, and React Native. As a freelancer and by managing my own special projects, I keep up with the industry's innovations and continue to develop myself in this field.  
-  
+I am a **passionate Frontend Developer** with over **5+ years** of experience, specializing in **React, React Native, and Next.js**.  
 
-<br/>  
+🛠️ My journey started with **ASP.NET and MVC**, where I built enterprise applications at an agency for several years. However, in **2021**, I shifted my focus entirely to modern frontend technologies, ensuring seamless and engaging user experiences across web and mobile platforms.  
 
+I love working with cutting-edge tools like:  
+✔ **Next.js 14/15** & **React 18+**  
+✔ **TailwindCSS** for rapid and scalable styling  
+✔ **ShadCN & Origin UI** for beautiful, reusable UI components  
+✔ **NextAuth v5 & BetterAuth** for secure authentication  
+✔ **Drizzle, Prisma, MySQL & PostgreSQL** on the backend  
 
-## Work Experience  
-- 2014 - 2019: Worked as a Full Stack Developer at IWT (IWTDijitalMedya). [IWTDijitalMedya](https://www.iwtdijitalmedya.com/)  
-  
+My goal is to **build elegant, high-performance, and scalable applications** that enhance user experience and meet business needs.  
 
-- 2019 - Present: Working as a freelancer and on my own special projects.  
-  
+---
 
-<br/>  
+## 💼 Work Experience  
 
+- **2014 - 2019** → Full Stack Developer at [IWT Dijital Medya](https://www.iwtdijitalmedya.com/)  
+- **2019 - Present** → Freelance Developer & Personal Projects  
 
-## Current Work  
-Since March 2023, I have been focusing on front end development with React, Next.js, and React Native. I am also capable of developing backend solutions at a beginner level.  
-  
+---
 
-<br/>  
+## 🔥 Tech Stack  
 
-
-## Languages and Tools  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="TailwindCSS" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
 </div>  
 
-<br/>  
+---
 
+## 📊 GitHub Stats  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=anilsoylu&&style=flat-square)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anilsoylu&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsoylu&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
-<br />
+---
+
+## 🌍 Communication & Collaboration  
+
+Although my **English is at an intermediate level**, I utilize **AI-powered tools** to ensure clear and efficient communication. I believe that technical expertise and problem-solving skills speak louder than words. 🚀  
+
+I have extensive experience working with **Figma-based designs**, ensuring that every detail is meticulously implemented in a responsive and pixel-perfect manner for **both web and mobile**.  
+
+---
+
+## 🚀 Let's Connect!  
+
+If you're looking for a dedicated **Frontend Developer** who values **clean code, performance, and user experience**, let's chat!  
+
+📩 **Email:** [business.anilsoylu@gmail.com](business.anilsoylu@gmail.com)  
+🔗 **Portfolio:** [anilsoylu.dev](https://anilsoylu.dev)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=anilsoylu&&style=flat-square)  
