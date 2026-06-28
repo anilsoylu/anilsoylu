@@ -1,82 +1,39 @@
-# Hey 👋, I'm Anıl Soylu!  
+# Hi, I'm Anıl 👋
 
-🚀 **Frontend Developer | React | React Native | Next.js | TypeScript**  
+Full-stack developer in İzmir, Türkiye. I've been writing code for about 10 years. Started on ASP.NET and C#, moved to the React/Next.js world around 2021, and mostly stayed there since. I ship client work, and I keep a handful of side products running because I get bored otherwise.
 
-<a href="https://github.com/anilsoylu" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://twitter.com/anilsoylu" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://linkedin.com/in/anilsoylu94" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>  
+[X](https://twitter.com/anilsoylu) · [LinkedIn](https://linkedin.com/in/anilsoylu94) · [business.anilsoylu@gmail.com](mailto:business.anilsoylu@gmail.com)
 
 ---
 
-## ✨ About Me  
+## Things I'm building
 
-I am a **passionate Frontend Developer** with over **5+ years** of experience, specializing in **React, React Native, and Next.js**.  
+📢 [**Launchly**](https://launchly.dev) · Changelog as a service. Host your changelog, drop a "What's new" widget on your site, and email subscribers when you publish. Push from the dashboard, a CLI, or GitHub.
 
-🛠️ My journey started with **ASP.NET and MVC**, where I built enterprise applications at an agency for several years. However, in **2021**, I shifted my focus entirely to modern frontend technologies, ensuring seamless and engaging user experiences across web and mobile platforms.  
+🗜️ [**CompressPower**](https://compresspower.com) · Compress and convert images, PDFs, and documents right in the browser. Files never get uploaded; everything runs on your machine.
 
-I love working with cutting-edge tools like:  
-✔ **Next.js 14/15** & **React 18+**  
-✔ **TailwindCSS** for rapid and scalable styling  
-✔ **ShadCN & Origin UI** for beautiful, reusable UI components  
-✔ **NextAuth v5 & BetterAuth** for secure authentication  
-✔ **Drizzle, Prisma, MySQL & PostgreSQL** on the backend  
+📦 [**ByteCompress**](https://bytecompress.com) · A free file converter for images, PDFs, and docs. No signup, instant results.
 
-My goal is to **build elegant, high-performance, and scalable applications** that enhance user experience and meet business needs.  
+🏠 [**InvestBud**](https://www.investbud.de) · Rental-yield, cashflow, and ROI calculator for German real estate. Covers all 16 Bundesländer.
 
----
+📞 [**Bukimamk**](https://bukimamk.com) · Turkish phone-number lookup. Search a number and see who's flagged it as spam.
 
-## 💼 Work Experience  
-
-- **2014 - 2019** → Full Stack Developer at [IWT Dijital Medya](https://www.iwtdijitalmedya.com/)  
-- **2019 - Present** → Freelance Developer & Personal Projects  
+🚀 [**gitpush**](https://github.com/anilsoylu/gitpush) · One command for `add`, `commit`, and `push` from inside an AI coding agent, with no AI signature on the commit.
 
 ---
 
-## 🔥 Tech Stack  
+## What I work with
 
-<div align="center">  
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="TailwindCSS" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
-</div>  
+**Frontend:** React, Next.js, React Native, TypeScript, Tailwind, shadcn/ui
+
+**Backend:** Node.js, NestJS, tRPC, GraphQL, Prisma, Better Auth, Stripe, plus some Go and C#/.NET
+
+**Data:** PostgreSQL, MongoDB, Redis, Supabase
+
+**Day to day:** Docker, GitHub Actions, Vercel, AWS, Bun, Biome, Expo
+
+Native Turkish, professional English. Most of my work has been with remote and international teams, usually starting from a Figma file and ending at production.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilsoylu&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsoylu&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
-## 🌍 Communication & Collaboration  
-
-Although my **English is at an intermediate level**, I utilize **AI-powered tools** to ensure clear and efficient communication. I believe that technical expertise and problem-solving skills speak louder than words. 🚀  
-
-I have extensive experience working with **Figma-based designs**, ensuring that every detail is meticulously implemented in a responsive and pixel-perfect manner for **both web and mobile**.  
-
----
-
-## 🚀 Let's Connect!  
-
-If you're looking for a dedicated **Frontend Developer** who values **clean code, performance, and user experience**, let's chat!  
-
-📩 **Email:** [business.anilsoylu@gmail.com](business.anilsoylu@gmail.com)  
-🔗 **Portfolio:** [anilsoylu.dev](https://anilsoylu.dev)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=anilsoylu&&style=flat-square)  
+I take on freelance and product work when it's interesting. The easiest way to reach me is email: [business.anilsoylu@gmail.com](mailto:business.anilsoylu@gmail.com).
