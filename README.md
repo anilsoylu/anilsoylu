@@ -18,6 +18,8 @@ Full-stack developer in İzmir, Türkiye. I've been writing code for about 10 ye
 
 📚 [**shipit**](https://github.com/anilsoylu/shipit) · The agent docs I reuse on every new Expo or Next.js project. Clone it in as `docs/` and the stack, auth, payments, and App Store checklists are already decided.
 
+📝 [**Tweet to Markdown**](https://github.com/anilsoylu/tweet-to-markdown) · Chrome extension that turns an X thread into one Markdown file. It reads the page you already have open, so there is no API key, no server, and no permissions in the manifest.
+
 🚀 [**gitpush**](https://github.com/anilsoylu/gitpush) · One command for `add`, `commit`, and `push` from inside an AI coding agent, with no AI signature on the commit.
 
 ---
