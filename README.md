@@ -12,11 +12,11 @@ Full-stack developer in İzmir, Türkiye. I've been writing code for about 10 ye
 
 🗜️ [**CompressPower**](https://compresspower.com) · Compress and convert images, PDFs, and documents right in the browser. Files never get uploaded; everything runs on your machine.
 
-📦 [**ByteCompress**](https://bytecompress.com) · A free file converter for images, PDFs, and docs. No signup, instant results.
-
 🏠 [**InvestBud**](https://www.investbud.de) · Rental-yield, cashflow, and ROI calculator for German real estate. Covers all 16 Bundesländer.
 
-📞 [**Bukimamk**](https://bukimamk.com) · Turkish phone-number lookup. Search a number and see who's flagged it as spam.
+🧠 [**Consigliere**](https://github.com/anilsoylu/consigliere) · Two models instead of one inside Claude Code. Fable plans the work with read-only tools, Opus writes the code, and a hook blocks edits to source files until the planner has been asked.
+
+📚 [**shipit**](https://github.com/anilsoylu/shipit) · The agent docs I reuse on every new Expo or Next.js project. Clone it in as `docs/` and the stack, auth, payments, and App Store checklists are already decided.
 
 🚀 [**gitpush**](https://github.com/anilsoylu/gitpush) · One command for `add`, `commit`, and `push` from inside an AI coding agent, with no AI signature on the commit.
 
