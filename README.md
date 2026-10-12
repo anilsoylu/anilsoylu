@@ -8,12 +8,6 @@ Full-stack developer in İzmir, Türkiye. I've been writing code for about 10 ye
 
 ## Things I'm building
 
-📢 [**Launchly**](https://launchly.dev) · Changelog as a service. Host your changelog, drop a "What's new" widget on your site, and email subscribers when you publish. Push from the dashboard, a CLI, or GitHub.
-
-🗜️ [**CompressPower**](https://compresspower.com) · Compress and convert images, PDFs, and documents right in the browser. Files never get uploaded; everything runs on your machine.
-
-🏠 [**InvestBud**](https://www.investbud.de) · Rental-yield, cashflow, and ROI calculator for German real estate. Covers all 16 Bundesländer.
-
 🧠 [**Consigliere**](https://github.com/anilsoylu/consigliere) · Two models instead of one inside Claude Code. Fable plans the work with read-only tools, Opus writes the code, and a hook blocks edits to source files until the planner has been asked.
 
 📚 [**shipit**](https://github.com/anilsoylu/shipit) · The agent docs I reuse on every new Expo or Next.js project. Clone it in as `docs/` and the stack, auth, payments, and App Store checklists are already decided.
