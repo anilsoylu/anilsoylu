@@ -1,35 +1,34 @@
-# Hi, I'm Anıl 👋
+# Anıl Soylu
 
-Full-stack developer in İzmir, Türkiye. I've been writing code for about 10 years. Started on ASP.NET and C#, moved to the React/Next.js world around 2021, and mostly stayed there since. I ship client work, and I keep a handful of side products running because I get bored otherwise.
+Senior full-stack engineer in Izmir, Türkiye. I build web and mobile products in TypeScript (Next.js, React Native with Expo, Node.js and Bun) and have shipped LLM features to production since late 2025. Open to remote full-time roles and contract work.
 
-[X](https://twitter.com/anilsoylu) · [LinkedIn](https://linkedin.com/in/anilsoylu94) · [business.anilsoylu@gmail.com](mailto:business.anilsoylu@gmail.com)
+[anilsoylu.com](https://anilsoylu.com) · [LinkedIn](https://www.linkedin.com/in/anilsoylu94) · [X](https://x.com/anilsoylu) · [business.anilsoylu@gmail.com](mailto:business.anilsoylu@gmail.com)
 
----
+## Live products
 
-## Things I'm building
+| Product | What it is | Built with |
+| --- | --- | --- |
+| [TrackYourInvestment](https://trackyourinvestment.com) | iOS portfolio tracker for stocks, funds, FX, gold and crypto, in 20 languages. AI summaries run behind per-user budget, quota and abuse checks. | Expo, Hono on Bun, PostgreSQL, Redis, RevenueCat, OpenRouter |
+| [SysWise](https://syswise.app) | iOS app for system design interview practice, with SM-2 spaced repetition and an app UI in 30 languages. A partner product I built end to end. | Expo, Hono, Drizzle, pg-boss, RevenueCat |
+| [CompressPower](https://www.compresspower.com) | 72 file conversion and compression tools in 16 languages. Light jobs run in the browser; heavy ones go to a worker API. | Next.js 16, tRPC, Prisma, sharp, ffmpeg, Cloudflare R2 |
+| [InvestBud](https://investbud.de) | German real-estate investment analyzer. A partner product where I lead development; my ImmoScout24 data service feeds its largest feature, with listing search cut from 159-818 ms to 10-17 ms at p50. | Next.js, FastAPI, PostGIS, Redis |
 
-🧠 [**Consigliere**](https://github.com/anilsoylu/consigliere) · Two models instead of one inside Claude Code. Fable plans the work with read-only tools, Opus writes the code, and a hook blocks edits to source files until the planner has been asked.
+## Open source
 
-📚 [**shipit**](https://github.com/anilsoylu/shipit) · The agent docs I reuse on every new Expo or Next.js project. Clone it in as `docs/` and the stack, auth, payments, and App Store checklists are already decided.
+- [famiglia](https://github.com/anilsoylu/famiglia): agent skills for taking code from plan to production, running SEO for a site, and writing that doesn't read as AI. Works with Claude Code, Codex and Cursor.
+- [shipit](https://github.com/anilsoylu/shipit): the agent docs I clone into every new Expo or Next.js project as `docs/`, with the stack, auth, payments and App Store checklists already decided.
+- [tweet-to-markdown](https://github.com/anilsoylu/tweet-to-markdown): Chrome extension that turns an X thread into one Markdown file, with no API key, no server and no extra permissions.
 
-📝 [**Tweet to Markdown**](https://github.com/anilsoylu/tweet-to-markdown) · Chrome extension that turns an X thread into one Markdown file. It reads the page you already have open, so there is no API key, no server, and no permissions in the manifest.
+## Stack
 
-🚀 [**gitpush**](https://github.com/anilsoylu/gitpush) · One command for `add`, `commit`, and `push` from inside an AI coding agent, with no AI signature on the commit.
+[![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,bun,py,swift,postgres,redis,prisma,tailwind,docker,githubactions,vercel)](https://skillicons.dev)
 
----
+- Languages: TypeScript, JavaScript, Python, Swift, Go
+- Web and mobile: React, Next.js, React Native, Expo, SwiftUI, Tailwind CSS
+- Backend and data: Node.js, Bun, Hono, FastAPI, tRPC, PostgreSQL, PostGIS, Redis, Drizzle, Prisma
+- AI: LLM features through OpenRouter and the Vercel AI SDK, with eval sets and cost limits
+- Delivery: Docker, Coolify, Vercel, EAS, GitHub Actions, Sentry
 
-## What I work with
+## Background
 
-**Frontend:** React, Next.js, React Native, TypeScript, Tailwind, shadcn/ui
-
-**Backend:** Node.js, NestJS, tRPC, GraphQL, Prisma, Better Auth, Stripe, plus some Go and C#/.NET
-
-**Data:** PostgreSQL, MongoDB, Redis, Supabase
-
-**Day to day:** Docker, GitHub Actions, Vercel, AWS, Bun, Biome, Expo
-
-Native Turkish, professional English. Most of my work has been with remote and international teams, usually starting from a Figma file and ending at production.
-
----
-
-I take on freelance and product work when it's interesting. The easiest way to reach me is email: [business.anilsoylu@gmail.com](mailto:business.anilsoylu@gmail.com).
+Twelve years in software. I spent five and a half years at a digital agency in Izmir, starting as an intern and leaving as a senior developer, building client web apps with ASP.NET and C#. I've worked freelance and on my own products since December 2019, and since July 2026 I've merged 1,795 pull requests across 33 repositories.
